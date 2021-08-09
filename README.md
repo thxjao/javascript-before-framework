@@ -7,7 +7,7 @@ Esse repositório contém alguns exemplos de exercícios que fiz, pelo qual opte
 Gostaria de clonar o projeto e visualizar em seu editor de código favorito? Basta clonar o projeto:
 
 ```bash
-git clone 
+git clone git@github.com:thxjao/javascript-before-framework.git
 ```
 
 ## Contribuindo
