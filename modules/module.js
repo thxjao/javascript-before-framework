@@ -14,3 +14,7 @@ export function areaQuadrado(l) {
 export function perimetroQuadrado(l) {
   return 4 * l;
 }
+
+// importando arquivo
+
+import { areaQuadrado, perimetroQuadrado } from "./quadrado.js";
